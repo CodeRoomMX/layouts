@@ -1,11 +1,11 @@
 # Layouts
 Haz el maquetado de cada una de las imágenes a continuación utilizando tus conocimientos de HTML y CSS, los layouts van aumentando de dificultad por lo que te recomiendo que los desarrolles en orden.
-1. [Hero/Info/Contact]
-2. Ecommerce Frontpage
-3. Power Up Hero/Icons/Gallery
-4. Digital Creative Agency Frontpage
-5. Multi Purpose Frontpage
-6. Single Page Site
+1. [Hero/Info/Contact](#heroinfocontact)
+2. [Ecommerce Frontpage](#ecommerce-frontpage)
+3. [Power Up Hero/Icons/Gallery](#power-up-heroiconsgallery)
+4. [Digital Creative Agency Frontpage](#digital-creative-agency-frontpage)
+5. [Multi Purpose Frontpage](#multi-purpose-frontpage)
+6. [Single Page Site](#single-page-site)
 
 ## Hero/Info/Contact
 ![hero/info/contact](images/3cb75f00cc3f2b76975a35d85f22f22d.jpg)
